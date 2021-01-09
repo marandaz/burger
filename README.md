@@ -49,8 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-
+This was a clever way to use JS, mySQL and handlebars all in one fell swoop. A user can add a burger of their choice. Once they have a list, they've worked up a an appetite and they can devour it. Sometimes, they've worked up an appetite and eat too fast -- and oh no.... they get sick. The burger can be added back to the list if this happens.
 
 
 <!-- GETTING STARTED -->
@@ -82,7 +81,7 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-
+This app is hosted through a heroku[here](https://eat-da-burger-2021.herokuapp.com/)
 
 
 
