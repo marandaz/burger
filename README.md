@@ -52,7 +52,7 @@
 This was a clever way to use JS, mySQL and handlebars all in one fell swoop. A user can add a burger of their choice. Once they have a list, they've worked up a an appetite and they can devour it. Sometimes, they've worked up an appetite and eat too fast -- and oh no.... they get sick. The burger can be added back to the list if this happens.
 
 
-<img src="/assets/img/readme.png" alt="screenshot of burger page" >
+<img src="../assets/img/readme.png" alt="screenshot of burger page" >
 
 <!-- GETTING STARTED -->
 ## Getting Started
